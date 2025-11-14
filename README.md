@@ -11,8 +11,8 @@ Maitri Ratanpara; MAR879@pitt.edu
 Links to Datasets:
 
 Journey -
-City Response Center Requests
-https://data.wprdc.org/dataset/311-data
+Waste Recovery Locations
+https://data.wprdc.org/dataset/waste-recovery-locations
 
 Katie -
 City Designated Individual Historic Sites
