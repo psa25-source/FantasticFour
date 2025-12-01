@@ -1,4 +1,4 @@
-Group 1 + Team Name: FantasticFour
+Group 1 & Team Name: FantasticFour
 
 Philipa Addae-Mensah; PSA25@pitt.edu
 
