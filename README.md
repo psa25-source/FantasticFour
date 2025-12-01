@@ -1,4 +1,6 @@
-Group 1 & Team Name: FantasticFour
+Canvas Group 1
+
+Team Name: FantasticFour
 
 Philipa Addae-Mensah; PSA25@pitt.edu
 
